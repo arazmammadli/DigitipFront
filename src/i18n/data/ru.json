@@ -1,0 +1,230 @@
+{
+    "constant": {
+        "footer": {
+            "headOne": "Бизнесу",
+            "headTwo": "Как работает",
+            "headThree": "Партнеры",
+            "headFour": "Контакты",
+            "footer_copyright_text": "© Skillus OÜ. 2022 All Right Reserved.",
+            "footer_sub_right_text": "Политика конфиденциальности"
+        }
+    },
+    "home": {
+        "header": {
+            "service": "Как работает",
+            "needs": "Для кого",
+            "partners": "Партнеры",
+            "prices": "Цены",
+            "headButton": "Подключиться",
+            "headSignUp": "Регистрация",
+            "headSignIn": "Войти"
+        },
+        "banner": {
+            "banner_head_one": "Удобный сервис",
+            "banner_head_two": "безналичных чаевых ",
+            "banner_head_three": "по карте",
+            "banner_btn": "Персональные чаевые",
+            "banner_text_one": "Получайте на 35% больше чаевых.",
+            "banner_text_two": "Все деньги идут напрямую к вам на счет.",
+            "banner_text_three": "Регистрация займет 1 минуту.",
+            "banner_text_four": "Чаевые мгновенно отображается у вас в кабинете."
+        },
+        "work": {
+            "work_head_one_text": "Как работает сервис",
+            "work_head_two_text": "для вас и гостя / клиента",
+            "work_item_one_head": "После регистрации вы получаете к себе в личный кабинет персональный QR Код",
+            "work_item_two_head": "Клиент видит QR-код на вашей визитке, наклейке или другом носителе",
+            "work_item_two_link": "Варианты размещения QR кода",
+            "work_item_three_head": "Клиент сканирует <strong>QR-код</strong>, выбирает сумму чаевых и оставляет их удобным способом: через <strong>Apple Pay, Google Pay, по номеру карты</strong>. Без регистраций и скачиваний",
+            "work_item_four_head": "Удобный интерфейс для [Заведения/Бизнеса}",
+            "work_item_four_text_one": "Выбор Смены",
+            "work_item_four_text_two": " Повышение уровня сервиса и лояльность персонала",
+            "work_btn": "Персональные чаевые"
+        },
+        "forWhom": {
+            "fw_head": "Кому это необходимо?",
+            "fw_item_head_one": "Официанту",
+            "fw_item_head_two": "Бармену",
+            "fw_item_head_three": "Доставке",
+            "fw_item_head_four": "Продавцу",
+            "fw_item_head_five": "Бьюти сфере",
+            "fw_item_head_six": "Курьеру",
+            "fw_item_head_seven": "Горничной",
+            "fw_item_head_eight": "Уличному музыканту",
+            "fw_item_head_nine": "Фитнес тренеру",
+            "fw_item_head_ten": "Бьюти сфере",
+            "fw_item_head_eleven": "Таксисту",
+            "fw_item_head_twelve": "Блогеру (Donate)",
+            "fw_item_head_thirteen": "Стримеру (Donate)",
+            "fw_btn": "Загрузить ещё"
+        },
+        "business": {
+            "b_head_one": "Электронные",
+            "b_head_two": "чаевые для бизнеса",
+            "b_head_subtext": "Для заведений HoReCa, beauty-индустрии, сервисов доставки, такси и других видов бизнеса в сфере услуг.Напрямую работникам",
+            "b_btn": "Подключиться",
+            "b_item_head_one": "Можно показывать на своих телефонах",
+            "b_item_head_two": "Визитка с личным QR кодом",
+            "b_item_head_three": "Можно показывать Наклейки (стикеры)",
+            "b_item_head_four": "Можно нанести на table tent"
+        },
+        "personalOffice": {
+            "po_head": "Ваш личный кабинет и вывод средств",
+            "po_item_one_list_text1": "Деньги попадают на ваш личный счет (LHV Pank), онлайн регистрация займет 5-7 минут. ",
+            "po_item_one_list_text2": "Все чаевые облагаются налогом 20% по закону Эстонской Республики номер: 11п1",
+            "po_item_one_list_link": "Условия договора",
+            "po_item_two_list_text1": "Вам не надо беспокоится о налогах, Банк позаботился  о вас.  С вашего банковского счета налоги списываются автоматически  на все транзакции по этому счету.",
+            "po_item_two_list_text2": "В конце смены вы можете обналичить ваши чаевые  в банкомате или оплатить ими покупки."
+        },
+        "prices": {
+            "prices_head": "Сколько это стоит?",
+            "prices_subtext": "Наш сервис удерживает комиссию, всего :",
+            "prices_desc": "В 80% случаях комиссию оплачивает клиент",
+            "prices_btn": "Подключиться"
+        },
+        "enterPin":{
+            "head":"Введите код",
+            "btn_text":"Готово"
+        }
+    },
+    "personalOffice": {
+        "header": {
+            "personal-office": "Главная",
+            "profile": "Профиль",
+            "templates": "Templates",
+            "headButton": "Вывести"
+        },
+        "home": {
+            "h_qrcode_head": "Ваш персональный QR-код",
+            "h_personal_pin": "Личный пин:",
+            "h_responsive_text_one": "Назад",
+            "h_responsive_text_two": "Вперед"
+        }
+    },
+    "profile": {
+        "header": {
+            "personal-office": "Главная",
+            "profile": "Профиль",
+            "templates": "Templates",
+            "headButton": "Вывести",
+            "head_signout_text": "Выход"
+        },
+        "blank": {
+            "about_none": "Описания нет",
+            "workAddress_none": "Не заполнено",
+            "home_none": "Не заполнено",
+            "phone_none": "Не заполнено"
+        },
+        "profileBody": {
+            "pb_refresh_pwd": "Обновить пароль",
+            "pb_person_price": "Ваши чаевые:",
+            "pb_settings": "Настройки"
+        },
+        "transaction": {
+            "transaction_head": "Транзакции",
+            "transaction_text": "У вас еще не было ни одной транзакции"
+        },
+        "settings": {
+            "s_back": "Вернуться к профилю",
+            "s_upload_btn": "Загрузить фото",
+            "s_delete_btn": "Удалить фото",
+            "s_update_pwd": "Обновить пароль",
+            "name_placeholder": "Имя",
+            "surname_placeholder": "Фамилия",
+            "position_placeholder": "Профессия / должность",
+            "phone_placeholder": "Номер телефона",
+            "name_system_placeholder": "Имя в системе",
+            "work_address_placeholder": "Адрес работы",
+            "aboutMe_placeholder": "О бо мне",
+            "redirect_link": "Зарегистрировать предпринимательский счет LHV Pank",
+            "btn": "Сохранить"
+        },
+        "modal": {
+            "modal_head": "Вы не сохранили изменения, уверены что хотите вернуться к профилю?",
+            "modal_success_btn": "Сохранить настрйоки",
+            "modal_failed_btn": "Перейти к профилю"
+        },
+        "withdraw": {
+            "s_back": "Вернуться назад",
+            "withdraw_head": "Регистрация счёта",
+            "withdraw_sub_text": "Введите данные предпринимательского счета",
+            "withdraw_btn": "Зарегистрировать счет LHV Pank",
+            "withdraw_bottom_text_one": "Нажимая кнопку «Оплатить», я соглашаюсь с",
+            "withdraw_bottom_text_two": "условиями",
+            "word_bank": "Банка"
+        },
+        "wFinally": {
+            "s_back": "Вернуться назад",
+            "pb_person_price": "Ваши чаевые:",
+            "withdraw_btn": "Подтвердить вывод",
+            "wihtdrawotmenu": "Отмена"
+        }
+    },
+    "authCheck": {
+        "a_head": "Авторизируйтесь и начните получать чаевые",
+        "a_auth_info": "Войти_или_зарегистрироваться",
+        "a_forgot": "Восстановить пароль",
+        "a_bottom_text": "Авторизировавшись, вы соглашаетесь с",
+        "a_bottom_text_link": "политикой конфиденциальности",
+        "a_btn": "Войти или Зарегистрироваться",
+        "g_btn":"Продолжить с Google",
+        "fb_btn":"Продолжить с Facebook",
+        "apple_btn":"Продолжить с Apple"
+    },
+    "login": {
+        "l_head": "Добро пожаловать",
+        "l_placeholder": "Введите пароль для входа",
+        "l_btn": "Войти",
+        "l_bottom_text": "Нажимая кнопку войти, вы соглашаетесь с",
+        "l_bottom_text_link": "политикой конфиденциальности"
+    },
+    "register": {
+        "r_auth_info": "Регистрация_по_E-mail",
+        "r_name_placeholder": "Имя",
+        "r_email_placeholder": "E-mail",
+        "r_password_placehoder": "Пароль",
+        "r_verifyPassword_placeholder": "Повторите пароль",
+        "r_btn": "Зарегистрироваться",
+        "r_bottom_text": "Нажимая зарегистрироваться, вы соглашаетесь с",
+        "r_bottom_text_link": "политикой конфиденциальности"
+    },
+    "forgotPassword": {
+        "f_head": "Восстановление пароля",
+        "f_email_placeholder": "E-mail",
+        "f_btn": "Отправить"
+    },
+    "resetPassword": {
+        "r_head": "Восстановление пароля",
+        "r_password_placeholder": "Введите новый пароль",
+        "r_vp_placeholder": "Повторите новый пароль",
+        "r_btn": "Сохранить"
+    },
+    "authCheckError": {
+        "emptyError": "Введите необходимое поле!",
+        "wrongError": "Пожалуйста, заполните необходимое поле правильно."
+    },
+    "loginError": {
+        "emptyError": "Не оставляйте обязательное поле пустым!",
+        "wrongError": "Пожалуйста, введите пароль правильно.",
+        "authCheckError": "Ваш аккаунт отключен администратором.",
+        "lengthError": "Пароль должен быть не менее 8 символов",
+        "apiError": "Вы ввели неверный пароль"
+    },
+    "registerError": {
+        "emptyEmail": "Не оставляйте обязательное поле пустым!",
+        "wrongEmail": "Пожалуйста, введите свой адрес электронной почты правильно.",
+        "emailApiError": "Этот почтовый адрес уже зарегистрирован.",
+        "emptyFullName": "Не оставляйте обязательное поле пустым!",
+        "lengthFullName": "Ваше имя должно содержать не менее 3 букв",
+        "emptyPassword": "Не оставляйте обязательное поле пустым!",
+        "wrongPassword": "Пожалуйста, введите пароль правильно.",
+        "lengthPassword": "Пароль должен быть не менее 8 символов",
+        "emptyVerifyPassword": "Не оставляйте обязательное поле пустым!",
+        "checkVerifyPassword": "Значение должно быть равно значению поля пароля",
+        "allCheckError": "Введите все обязательные поля!"
+    },
+    "qrcode": {
+        "qrcode_head": "Введите пин-код.",
+        "qrcode_placeholder": "Личный пин:"
+    }
+}

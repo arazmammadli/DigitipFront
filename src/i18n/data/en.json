@@ -1,0 +1,232 @@
+{
+    "constant": {
+        "footer": {
+            "headOne": "For business",
+            "headTwo": "How it works",
+            "headThree": "Partners",
+            "headFour": "Contacts",
+            "footer_copyright_text": "© Skillus OÜ. 2022 All Right Reserved.",
+            "footer_sub_right_text": "Privacy Policy"
+        }
+    },
+    "home": {
+        "header": {
+            "service": "How it works",
+            "needs": "For whom",
+            "partners": "Partners",
+            "prices": "Prices",
+            "headButton": "Join",
+            "headSignUp": "Sign up",
+            "headSignIn": "Log in"
+        },
+        "banner": {
+            "banner_head_one": "Convenient cashless",
+            "banner_head_two": "tipping service",
+            "banner_head_three": "on the map",
+            "banner_btn": "Personal tips",
+            "banner_text_one": "Get 35% more tips.",
+            "banner_text_two": "All tips go directly to your account",
+            "banner_text_three": "Signing up will take just 1 minute",
+            "banner_text_four": "Tips are immediately displayed in your personal account"
+        },
+        "work": {
+            "work_head_one_text": "How the service works",
+            "work_head_two_text": "for you and the guest / client",
+            "work_item_one_head": "After signing up a personal QR code will appear in your account",
+            "work_item_two_head": "Client finds the QR code on your business card, sticker or other media",
+            "work_item_two_link": "Options for placing a QR code",
+            "work_item_three_head": "Client scan the QR code, chooses tip amount and makes payment with Apple Pay, Google pay or by credit card. With no registrations and downloads",
+            "work_item_four_head": "Convenient interface for [Establishment/Business}",
+            "work_item_four_text_one": "Shift Choice",
+            "work_item_four_text_two": "Increasing the level of service and staff loyalty",
+            "work_btn": "Personal tips"
+        },
+        "forWhom": {
+            "fw_head": "Who needs it?",
+            "fw_item_head_one": "Waiter",
+            "fw_item_head_two": "Bartender",
+            "fw_item_head_three": "Delivery",
+            "fw_item_head_four": "Seller",
+            "fw_item_head_five": "Beauty industry",
+            "fw_item_head_six": "Courier",
+            "fw_item_head_seven": "Housemaid",
+            "fw_item_head_eight": "Street musician",
+            "fw_item_head_nine": "Fitness trainer",
+            "fw_item_head_ten": "Beauty industry",
+            "fw_item_head_eleven": "Taxi driver",
+            "fw_item_head_twelve": "Blogger (donation)",
+            "fw_item_head_thirteen": "Streamer (donation)",
+            "fw_btn": "Who else"
+        },
+        "business": {
+            "b_head_one": "E-tips",
+            "b_head_two": "for business and personally",
+            "b_head_subtext": " For HoReCa venues, beauty industry, delivery services, taxi and other service related businesses.Directly to the employee",
+            "b_btn": "Connect",
+            "b_item_head_one": "Demonstration of the QR code from the phone screen",
+            "b_item_head_two": "Business card with personal QR code",
+            "b_item_head_three": "Stickers with QR code",
+            "b_item_head_four": "Placing the QR-code on table tent cards"
+        },
+        "personalOffice": {
+            "po_head": "Your personal account and money withdrawal",
+            "po_item_one_list_text1": "The money goes to your entrepreneur account (LHV Pank). To open an entrepreneur account you need to become a LHV customer, online registration will take 10 minutes",
+            "po_item_one_list_text2": "All tips a taxed at 20% tax according to the laws of Estonian Republic",
+            "po_item_one_list_link": "Argeement conditions",
+            "po_item_two_list_text1": "You don’t have to worry about deducting taxes, bank will take care of that. Taxes will be deducted automatically from your bank account",
+            "po_item_two_list_text2": "After the working day you can cash out your electronic tips at an ATM or pay with it for your purchases"
+        },
+        "prices": {
+            "prices_head": "What’s the price?",
+            "prices_subtext": "Our commission rate is only:",
+            "prices_desc": "In 80% cases the commission is paid by client",
+            "prices_btn": "Connect"
+        },
+        "enterPin":{
+            "head":"Insert employee’s personal code",
+            "btn_text":"Done"
+        }
+    },
+    "personalOffice": {
+        "header": {
+            "personal-office": "Home",
+            "profile": "Profile",
+            "templates": "Templates",
+            "headButton": "Withdraw"
+        },
+        "home": {
+            "h_qrcode_head": "Your personal QR code",
+            "h_personal_pin": "Personal pin:",
+            "h_transactions_head": "Transactions",
+            "h_transactions_text": "You haven't had any transactions yet",
+            "h_responsive_text_one": "Back",
+            "h_responsive_text_two": "Forward"
+        }
+    },
+    "profile": {
+        "header": {
+            "personal-office": "Home",
+            "profile": "Profile",
+            "templates": "Templates",
+            "headButton": "Withdraw",
+            "head_signout_text": "Sign out"
+        },
+        "blank": {
+            "about_none": "No description",
+            "workAddress_none": "Not filled",
+            "home_none": "Not filled",
+            "phone_none": "Not filled"
+        },
+        "profileBody": {
+            "pb_refresh_pwd": "Update password",
+            "pb_person_price": "Your tips:",
+            "pb_settings": "Settings"
+        },
+        "transaction": {
+            "transaction_head": "Transactions",
+            "transaction_text": "You haven't had any transactions yet"
+        },
+        "settings": {
+            "s_back": "Back to profile",
+            "s_upload_btn": "Upload photo",
+            "s_delete_btn": "Delete photo",
+            "s_update_pwd": "Update password",
+            "name_placeholder": "Name",
+            "surname_placeholder": "Surname",
+            "position_placeholder": "Profession / Position",
+            "phone_placeholder": "Phone number",
+            "name_system_placeholder": "Name in the system",
+            "work_address_placeholder": "Work address",
+            "aboutMe_placeholder": "About me",
+            "redirect_link": "Register an LHV Pank entrepreneur account",
+            "btn": "Save"
+        },
+        "modal": {
+            "modal_head": "You didn't save your changes, are you sure you want to go back to your profile?",
+            "modal_success_btn": "Save settings",
+            "modal_failed_btn": "Go to profile"
+        },
+        "withdraw": {
+            "s_back": "come back",
+            "withdraw_head": "Account registration",
+            "withdraw_sub_text": "Enter your business account details",
+            "withdraw_btn": "Register an account with LHV Bank",
+            "withdraw_bottom_text_one": "By clicking the 'Pay' button, I agree with",
+            "withdraw_bottom_text_two": "conditions",
+            "word_bank": "Jar"
+        },
+        "wFinally": {
+            "s_back": "come back",
+            "pb_person_price": "Your tips:",
+            "withdraw_btn": "Confirm Withdrawal",
+            "wihtdrawotmenu": "Cancel"
+        }
+    },
+    "authCheck": {
+        "a_head": "Log in and start receiving tips",
+        "a_auth_info": "Log_in_or_Sign_up",
+        "a_forgot": "Restore password",
+        "a_bottom_text": "By logging in you agree to our",
+        "a_bottom_text_link": "privacy policy",
+        "a_btn": "Enter or register",
+        "g_btn":"Continue with Google",
+        "fb_btn":"Continue with Facebook",
+        "apple_btn":"Continue with Apple"
+    },
+    "login": {
+        "l_head": "welcome back",
+        "l_placeholder": "Enter password to login",
+        "l_btn": "Login",
+        "l_bottom_text": "By clicking the login button, you agree to",
+        "l_bottom_text_link": "privacy policy"
+    },
+    "register": {
+        "r_auth_info": "Registration_by_E-mail",
+        "r_name_placeholder": "Name",
+        "r_email_placeholder": "Email",
+        "r_password_placehoder": "Пароль",
+        "r_verifyPassword_placeholder": "Повторите пароль",
+        "r_btn": "Register",
+        "r_bottom_text": "Нажимая зарегистрироваться, вы соглашаетесь с",
+        "r_bottom_text_link": "политикой конфиденциальности"
+    },
+    "forgotPassword": {
+        "f_head": "Password recovery",
+        "f_email_placeholder": "E-mail",
+        "f_btn": "Send"
+    },
+    "resetPassword": {
+        "r_head": "Password recovery",
+        "r_password_placeholder": "Enter a new password",
+        "r_vp_placeholder": "repeat new password",
+        "r_btn": "Save"
+    },
+    "authCheckError": {
+        "emptyError": "Enter the required field!",
+        "wrongError": "Please fill in the required field correctly."
+    },
+    "loginError": {
+        "emptyError": "Don't leave a required field blank!",
+        "wrongError": "Please enter your password correctly.",
+        "authCheckError":"Your account has been disabled by admin.",
+        "lengthError": "Password should be at least 8 characters",
+        "apiError": "The password you entered is incorrect"
+    },
+    "registerError": {
+        "emptyEmail": "Don't leave a required field blank!",
+        "wrongEmail": "Please enter your email address correctly.",
+        "emailApiError": "This email is already registered.",
+        "emptyFullName": "Don't leave a required field blank!",
+        "lengthFullName": "Your name must contain at least 3 letters",
+        "emptyPassword": "Don't leave a required field blank!",
+        "wrongPassword": "Please enter your password correctly.",
+        "lengthPassword": "Password must be at least 8 characters",
+        "emptyVerifyPassword": "Don't leave a required field blank!",
+        "checkVerifyPassword": "The value must be equal to the value of the password field",
+        "allCheckError": "Enter all required fields!"
+    },
+    "qrcode": {
+        "qrcode_head": "Enter your PIN.",
+        "qrcode_placeholder": "Personal pin:"
+    }
+}

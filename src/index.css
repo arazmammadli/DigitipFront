@@ -1,0 +1,92 @@
+@font-face {
+  font-family: "Golos";
+  src: url(../public/fonts/golos-text_regular.ttf);
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+};
+
+@font-face {
+  font-family: "Golos";
+  src: url(../public/fonts/golos-text_regular.ttf);
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+};
+
+@font-face {
+  font-family: "Golos";
+  src: url(../public/fonts/golos-text_medium.ttf);
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Golos";
+  src: url(../public/fonts/golos-text_demibold.ttf);
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Golos";
+  src: url(../public/fonts/golos-text_bold.ttf);
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Golos";
+  src: url(../public/fonts/golos-text_bold.ttf);
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: "Golos";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: "Golos";
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@layer base {
+  input[type='number']::-webkit-outer-spin-button,
+  input[type='number']::-webkit-inner-spin-button,
+  input[type='number'] {
+    -webkit-appearance: none;
+    margin: 0;
+    -moz-appearance: textfield !important;
+  }
+}
+
+.transactions_container::-webkit-scrollbar {
+  width: 6px;
+}
+
+.transactions_container::-webkit-scrollbar-track {
+  background-color: rgba(232, 232, 234, 0.2) !important;
+  opacity: 0.2 !important;
+} 
+
+.transactions_container::-webkit-scrollbar-thumb {
+  background: #E8E8EA;
+  border-radius: 30px;
+}

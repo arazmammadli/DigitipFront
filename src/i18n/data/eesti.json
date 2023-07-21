@@ -1,0 +1,230 @@
+{
+    "constant": {
+        "footer": {
+            "headOne": "äri",
+            "headTwo": "Kuidas see töötab",
+            "headThree": "Partnerid",
+            "headFour": "Kontaktid",
+            "footer_copyright_text": "© Skillus OÜ. 2022 Kõik õigused kaitstud.",
+            "footer_sub_right_text": "Privaatsuspoliitika"
+        }
+    },
+    "home": {
+        "header": {
+            "service": "Kuidas see toimib",
+            "needs": "Kellele",
+            "partners": "Partnerid",
+            "prices": "Hinnad",
+            "headButton": "Liitu",
+            "headSignUp": "Registreeri",
+            "headSignIn": "Logi sisse"
+        },
+        "banner": {
+            "banner_head_one": "Mugav kontaktivaba",
+            "banner_head_two": "jootraha jätmise",
+            "banner_head_three": "teenus",
+            "banner_btn": "Isiklikud näpunäited",
+            "banner_text_one": "Teeni 35% rohkem jootraha",
+            "banner_text_two": "Kõik jootraha läheb koheselt sinu kontole",
+            "banner_text_three": "Registreerinime vaid 1 minutiga.",
+            "banner_text_four": "Jootraha kuvab kohe sinu isiklikul kontol."
+        },
+        "work": {
+            "work_head_one_text": "Kuidas teenus töötab",
+            "work_head_two_text": "teile ja külalisele / kliendile",
+            "work_item_one_head": "Peale registreerimist sinu isiklikul kontol ilmub personaalne QR-kood",
+            "work_item_two_head": "Klient näeb QR-koodi kas sinu visiitkaardil, kleepsul või muul kandjal",
+            "work_item_two_link": "QR-koodi paigutamise võimalused",
+            "work_item_three_head": "Klient skaneerib QR-koodi, valib jootraha summa ja jätab see enda jaoks mugaval viisil: pangakaardiga, Apple Pay või Google Pay kaudu. Registreerimise- ja allalaadimiseta",
+            "work_item_four_head": "Mugav liides [Establishment/Business} jaoks",
+            "work_item_four_text_one": "Vahetuse valik",
+            "work_item_four_text_two": "Teeninduse taseme ja töötajate lojaalsuse tõstmine",
+            "work_btn": "Isiklik jootraha"
+        },
+        "forWhom": {
+            "fw_head": "Kellele see mõeldud on?",
+            "fw_item_head_one": "Ettekandjale",
+            "fw_item_head_two": "Baarmenile",
+            "fw_item_head_three": "Veoteenusele",
+            "fw_item_head_four": "Müüjale",
+            "fw_item_head_five": "Iluvaldkonnale",
+            "fw_item_head_six": "Kullerile",
+            "fw_item_head_seven": "Toateenijale",
+            "fw_item_head_eight": "Tänavamuusikule",
+            "fw_item_head_nine": "Treenerile",
+            "fw_item_head_ten": "Iluvaldkonnale",
+            "fw_item_head_eleven": "Taksojuhile",
+            "fw_item_head_twelve": "Blogijale (annetus)",
+            "fw_item_head_thirteen": " Striimerile (annetus)",
+            "fw_btn": "Kellele veel"
+        },
+        "business": {
+            "b_head_one": "E-jootraha",
+            "b_head_two": "ärile ja töötajale",
+            "b_head_subtext": "HoReCa asutustele, iluvaldkonnale, veoteenustele, taksole ning teistele teenindusvaldkonna ettevõtetele.Oste töötajatele",
+            "b_btn": "Liitu",
+            "b_item_head_one": "QR-koodi nutitelefonilt näitamine",
+            "b_item_head_two": "Personaalse QR-koodiga visiitkaart",
+            "b_item_head_three": "QR-koodiga kleepsud",
+            "b_item_head_four": "QR-koodi paigutus lauareklaamil"
+        },
+        "personalOffice": {
+            "po_head": "Sinu isiklik konto ja raha väljavõtmine",
+            "po_item_one_list_text1": "Raha laekub sinu ettevõtluskontole (LHV Pank). Ettevõtluskonto avamiseks tuleb hakata LHV kliendiks, internetis registreerimine võtab 10 minutit",
+            "po_item_one_list_text2": "Kõik jootraha on maksustatud 20% maksuga vastavalt Eesti Vabariigi seadusele",
+            "po_item_one_list_link": "Lepingu tingimused",
+            "po_item_two_list_text1": "Sa ei pea maksude mahaarvamise pärast muretsema, sellest hoolitseb pank. Sinu pangakontolt maksud arvatakse automaatselt maha.",
+            "po_item_two_list_text2": "Peale tööpäeva saad elektroonilise jootraha pangaautomaadist välja võtta või oma ostud sellega kinni maksta."
+        },
+        "prices": {
+            "prices_head": "Palju see maksab?",
+            "prices_subtext": "Meie komisjonitasu on vaid:",
+            "prices_desc": "80% juhtumitel komisjonitasu on kinni makstud kliendi poolt",
+            "prices_btn": "Liitu"
+        },
+        "enterPin":{
+            "head":"Sisestage töötaja personaalne pin-kood",
+            "btn_text":"Valmis"
+        }
+    },
+    "personalOffice": {
+        "header": {
+            "headOne": "Kodu",
+            "headTwo": "Profiil",
+            "headThree": "Mallid",
+            "headButton": "Et taganeda"
+        },
+        "home": {
+            "h_qrcode_head": "Teie isiklik QR-kood",
+            "h_personal_pin": "Isiklik pin:",
+            "h_responsive_text_one": "tagasi",
+            "h_responsive_text_two": "Edasi"
+        }
+    },
+    "profile": {
+        "header": {
+            "headOne": "Kodu",
+            "headTwo": "Profiil",
+            "headThree": "Mallid",
+            "headButton": "Et taganeda",
+            "head_signout_text": "Logi välja"
+        },
+        "blank": {
+            "about_none": "Kirjeldust pole",
+            "workAddress_none": "Pole täidetud",
+            "home_none": "Pole täidetud",
+            "phone_none": "Pole täidetud"
+        },
+        "profileBody": {
+            "pb_refresh_pwd": "Uuenda parooli",
+            "pb_person_price": "Teie näpunäited:",
+            "pb_settings": "Seaded"
+        },
+        "transaction": {
+            "transaction_head": "Tehingud",
+            "transaction_text": "Te pole veel ühtegi tehingut teinud"
+        },
+        "settings": {
+            "s_back": "Tagasi profiilile",
+            "s_upload_btn": "Lae pilt üles",
+            "s_delete_btn": "Kustuta foto",
+            "s_update_pwd": "Uuenda parooli",
+            "name_placeholder": "Nimi",
+            "surname_placeholder": "Perekonnanimi",
+            "position_placeholder": "Elukutse / Ametikoht",
+            "phone_placeholder": "Telefoninumber",
+            "name_system_placeholder": "Nimi süsteemis",
+            "work_address_placeholder": "Töökoha aadress",
+            "aboutMe_placeholder": "Minust",
+            "redirect_link": "Registreeri LHV Panga ettevõtjakonto",
+            "btn": "Salvesta"
+        },
+        "modal": {
+            "modal_head": "Te ei salvestanud muudatusi. Kas soovite kindlasti oma profiilile naasta?",
+            "modal_success_btn": "Salvesta sätted",
+            "modal_failed_btn": "Mine profiilile"
+        },
+        "withdraw": {
+            "s_back": "tule tagasi",
+            "withdraw_head": "Konto registreerimine",
+            "withdraw_sub_text": "Sisestage oma ettevõtte konto andmed",
+            "withdraw_btn": "Registreeri konto LHV Pangas",
+            "withdraw_bottom_text_one": "Klõpsates nupul 'Maksa', nõustun",
+            "withdraw_bottom_text_two": "tingimused",
+            "word_bank": "Jar"
+        },
+        "wFinally": {
+            "s_back": "tule tagasi",
+            "pb_person_price": "Teie näpunäited:",
+            "withdraw_btn": "Kinnitage väljavõtmine",
+            "wihtdrawotmenu": "Tühista"
+        }
+    },
+    "authCheck": {
+        "a_head": "Logi sisse ja hakka näpunäiteid saama",
+        "a_auth_info": "Logi_sisse_või_registreeri",
+        "a_forgot": "Parooli taastamine",
+        "a_bottom_text": "Sisse logides sa nõustud",
+        "a_bottom_text_link": "privaatsuspoliitika tingimustega",
+        "a_btn": "Logi sisse",
+        "g_btn":"Sisene Google kaudu",
+        "fb_btn":"Sisene Facebooki kaudu",
+        "apple_btn":"Sisene Apple kaudu"
+    },
+    "login": {
+        "l_head": "Tere tulemast tagasi",
+        "l_placeholder": "Sisestage sisselogimiseks parool",
+        "l_btn": "Logi sisse",
+        "l_bottom_text": "Sisselogimisnupule klõpsates nõustute",
+        "l_bottom_text_link": "privaatsuspoliitika"
+    },
+    "register": {
+        "r_auth_info": "Registreerimine_e-posti_teel",
+        "r_name_placeholder": "Sisestage oma nimi",
+        "r_email_placeholder": "Sisestage oma e-posti aadress",
+        "r_password_placehoder": "Sisestage parool",
+        "r_verifyPassword_placeholder": "Sisestage teine ​​parool",
+        "r_btn": "Registreeri",
+        "r_bottom_text": "Klõpsates nuppu Registreeru, nõustud",
+        "r_bottom_text_link": "privaatsuspoliitika"
+    },
+    "forgotPassword": {
+        "f_head": "Parooli taastamine",
+        "f_email_placeholder": "e-posti aadress",
+        "f_btn": "Saada"
+    },
+    "resetPassword": {
+        "r_head": "Восстановление пароля",
+        "r_password_placeholder": "Sisestage uus parool",
+        "r_vp_placeholder": "korda uut parooli",
+        "r_btn": "Salvesta"
+    },
+    "authCheckError": {
+        "emptyError": "Sisesta nõutav väli!",
+        "wrongError": "Palun täitke nõutud väli õigesti."
+    },
+    "loginError": {
+        "emptyError": "Ärge jätke kohustuslikku välja tühjaks!",
+        "wrongError": "Palun sisestage oma parool õigesti.",
+        "authCheckError": "Administraator on teie konto keelanud.",
+        "lengthError": "Parool peab olema vähemalt 8 tähemärki pikk",
+        "apiError": "Sisestatud parool on vale"
+    },
+    "registerError": {
+        "emptyEmail": "Ärge jätke kohustuslikku välja tühjaks!",
+        "wrongEmail": "Palun sisestage oma e-posti aadress õigesti.",
+        "emailApiError": "See meil on juba registreeritud.",
+        "emptyFullName": "Ärge jätke kohustuslikku välja tühjaks!",
+        "lengthFullName": "Teie nimi peab sisaldama vähemalt 3 tähte",
+        "emptyPassword": "Ärge jätke kohustuslikku välja tühjaks!",
+        "wrongPassword": "Palun sisestage oma parool õigesti.",
+        "lengthPassword": "Parool peab koosnema vähemalt 8 tähemärgist",
+        "emptyVerifyPassword": "Ärge jätke kohustuslikku välja tühjaks!",
+        "checkVerifyPassword": "Väärtus peab olema võrdne paroolivälja väärtusega",
+        "allCheckError": "Sisesta kõik nõutud väljad!"
+    },
+    "qrcode": {
+        "qrcode_head": "Sisestage oma PIN-kood.",
+        "qrcode_placeholder": "Isiklik pin:"
+    }
+}
